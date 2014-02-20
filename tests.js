@@ -10,6 +10,6 @@ MyClass.prototype.myFunction = function() {
 
 
 test("sample test", function() {
-	ok(game);
+	ok(true);
 	equal("Actual", "Expected");
 });
